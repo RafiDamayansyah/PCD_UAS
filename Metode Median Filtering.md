@@ -2,8 +2,8 @@
 
 ## 1. Judul Proyek
 **Aplikasi Peningkatan Kualitas Citra Menggunakan Metode Median Filtering Untuk Menghilangkan Noise**  
-**Nama:** [Nama Anda]  
-**NPM:** [NPM Anda]  
+**Nama:** Rafi Damayansyah  
+**NPM:** 2206146
 
 ## 2. Pendahuluan
 
@@ -66,14 +66,4 @@ Menurut penelitian oleh Sadly Syamsuddin dalam prosiding *Seminar Ilmiah Sistem 
 - Yuwono, B. (2015). *Image Smoothing Menggunakan Mean Filtering, Median Filtering, Modus Filtering dan Gaussian Filtering*. Telematika, 7(1), 65-75.
 
 ---
-
-## Instruksi Pengumpulan
-1. Unggah file Google Colab (`.ipynb`), laporan dalam format **PDF**, dan dokumen **Markdown** (`.md`) ke **GitHub**.
-2. Kirimkan link repository **GitHub** yang berisi semua file tersebut.
-
----
-
-**Catatan:**
-Dokumen ini hanya berisi penjelasan tanpa kode pemrograman. Untuk implementasi kode, silakan tambahkan di file Google Colab (`.ipynb`).
-
 
