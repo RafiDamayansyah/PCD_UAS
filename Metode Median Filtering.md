@@ -5,6 +5,8 @@
 **Nama:** Rafi Damayansyah  
 **NPM:** 2206146
 
+[![DOI](https://zenodo.org/badge/929709613.svg)](https://doi.org/10.5281/zenodo.14839548)
+
 ## 2. Pendahuluan
 
 ### Latar Belakang
